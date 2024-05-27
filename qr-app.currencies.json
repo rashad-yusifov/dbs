@@ -1,0 +1,1001 @@
+[{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d1"
+  },
+  "code": "AED",
+  "country": "AE"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d2"
+  },
+  "code": "AFN",
+  "country": "AF"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d3"
+  },
+  "code": "ALL",
+  "country": "AL"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d4"
+  },
+  "code": "AOA",
+  "country": "AO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d5"
+  },
+  "code": "ARS",
+  "country": "AR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d6"
+  },
+  "code": "AUD",
+  "country": "AU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d7"
+  },
+  "code": "AWG",
+  "country": "AW"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d8"
+  },
+  "code": "AZN",
+  "country": "AZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409d9"
+  },
+  "code": "BAM",
+  "country": "BA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409da"
+  },
+  "code": "BBD",
+  "country": "BB"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409db"
+  },
+  "code": "BDT",
+  "country": "BD"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409dc"
+  },
+  "code": "BGN",
+  "country": "BG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409dd"
+  },
+  "code": "BHD",
+  "country": "BH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409de"
+  },
+  "code": "BIF",
+  "country": "BI"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409df"
+  },
+  "code": "BMD",
+  "country": "BM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e0"
+  },
+  "code": "BND",
+  "country": "BN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e1"
+  },
+  "code": "BOB",
+  "country": "BO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e2"
+  },
+  "code": "BRL",
+  "country": "BR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e3"
+  },
+  "code": "BSD",
+  "country": "BS"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e4"
+  },
+  "code": "BTN",
+  "country": "BT"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e5"
+  },
+  "code": "BWP",
+  "country": "BW"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e6"
+  },
+  "code": "BZD",
+  "country": "BZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e7"
+  },
+  "code": "CAD",
+  "country": "CA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e8"
+  },
+  "code": "CDF",
+  "country": "CD"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409e9"
+  },
+  "code": "CHF",
+  "country": "CH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409ea"
+  },
+  "code": "CLF",
+  "country": "CL"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409eb"
+  },
+  "code": "CLP",
+  "country": "CL"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409ec"
+  },
+  "code": "CNH",
+  "country": "CN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409ed"
+  },
+  "code": "CNY",
+  "country": "CN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409ee"
+  },
+  "code": "COP",
+  "country": "CO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409ef"
+  },
+  "code": "CUP",
+  "country": "CU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f0"
+  },
+  "code": "CVE",
+  "country": "CV"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f1"
+  },
+  "code": "CZK",
+  "country": "CZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f2"
+  },
+  "code": "DJF",
+  "country": "DJ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f3"
+  },
+  "code": "DKK",
+  "country": "DK"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f4"
+  },
+  "code": "DOP",
+  "country": "DO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f5"
+  },
+  "code": "DZD",
+  "country": "DZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f6"
+  },
+  "code": "EGP",
+  "country": "EG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f7"
+  },
+  "code": "ERN",
+  "country": "ER"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f8"
+  },
+  "code": "ETB",
+  "country": "ET"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409f9"
+  },
+  "code": "EUR",
+  "country": "EU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409fa"
+  },
+  "code": "FJD",
+  "country": "FJ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409fb"
+  },
+  "code": "FKP",
+  "country": "FK"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409fc"
+  },
+  "code": "GBP",
+  "country": "GB"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409fd"
+  },
+  "code": "GEL",
+  "country": "GE"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409fe"
+  },
+  "code": "GHS",
+  "country": "GH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b409ff"
+  },
+  "code": "GIP",
+  "country": "GI"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a00"
+  },
+  "code": "GMD",
+  "country": "GM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a01"
+  },
+  "code": "GNF",
+  "country": "GN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a02"
+  },
+  "code": "GTQ",
+  "country": "GT"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a03"
+  },
+  "code": "GYD",
+  "country": "GY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a04"
+  },
+  "code": "HKD",
+  "country": "HK"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a05"
+  },
+  "code": "HNL",
+  "country": "HN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a06"
+  },
+  "code": "HRK",
+  "country": "HR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a07"
+  },
+  "code": "HTG",
+  "country": "HT"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a08"
+  },
+  "code": "HUF",
+  "country": "HU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a09"
+  },
+  "code": "IDR",
+  "country": "ID"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a0a"
+  },
+  "code": "ILS",
+  "country": "IL"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a0b"
+  },
+  "code": "INR",
+  "country": "IN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a0c"
+  },
+  "code": "IQD",
+  "country": "IQ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a0d"
+  },
+  "code": "IRR",
+  "country": "IR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a0e"
+  },
+  "code": "ISK",
+  "country": "IS"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a0f"
+  },
+  "code": "JMD",
+  "country": "JM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a10"
+  },
+  "code": "JOD",
+  "country": "JO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a11"
+  },
+  "code": "JPY",
+  "country": "JP"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a12"
+  },
+  "code": "KES",
+  "country": "KE"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a13"
+  },
+  "code": "KGS",
+  "country": "KG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a14"
+  },
+  "code": "KHR",
+  "country": "KH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a15"
+  },
+  "code": "KMF",
+  "country": "KM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a16"
+  },
+  "code": "KPW",
+  "country": "KP"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a17"
+  },
+  "code": "KRW",
+  "country": "KR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a18"
+  },
+  "code": "KWD",
+  "country": "KW"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a19"
+  },
+  "code": "KYD",
+  "country": "KY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a1a"
+  },
+  "code": "KZT",
+  "country": "KZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a1b"
+  },
+  "code": "LAK",
+  "country": "LA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a1c"
+  },
+  "code": "LBP",
+  "country": "LB"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a1d"
+  },
+  "code": "LKR",
+  "country": "LK"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a1e"
+  },
+  "code": "LRD",
+  "country": "LR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a1f"
+  },
+  "code": "LSL",
+  "country": "LS"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a20"
+  },
+  "code": "LYD",
+  "country": "LY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a21"
+  },
+  "code": "MAD",
+  "country": "MA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a22"
+  },
+  "code": "MDL",
+  "country": "MD"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a23"
+  },
+  "code": "MGA",
+  "country": "MG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a24"
+  },
+  "code": "MKD",
+  "country": "MK"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a25"
+  },
+  "code": "MMK",
+  "country": "MM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a26"
+  },
+  "code": "MNT",
+  "country": "MN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a27"
+  },
+  "code": "MOP",
+  "country": "MO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a28"
+  },
+  "code": "MRU",
+  "country": "MR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a29"
+  },
+  "code": "MUR",
+  "country": "MU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a2a"
+  },
+  "code": "MVR",
+  "country": "MV"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a2b"
+  },
+  "code": "MWK",
+  "country": "MW"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a2c"
+  },
+  "code": "MXN",
+  "country": "MX"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a2d"
+  },
+  "code": "MYR",
+  "country": "MY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a2e"
+  },
+  "code": "MZN",
+  "country": "MZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a2f"
+  },
+  "code": "NAD",
+  "country": "NA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a30"
+  },
+  "code": "NGN",
+  "country": "NG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a31"
+  },
+  "code": "NOK",
+  "country": "NO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a32"
+  },
+  "code": "NPR",
+  "country": "NP"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a33"
+  },
+  "code": "NZD",
+  "country": "NZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a34"
+  },
+  "code": "OMR",
+  "country": "OM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a35"
+  },
+  "code": "PAB",
+  "country": "PA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a36"
+  },
+  "code": "PEN",
+  "country": "PE"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a37"
+  },
+  "code": "PGK",
+  "country": "PG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a38"
+  },
+  "code": "PHP",
+  "country": "PH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a39"
+  },
+  "code": "PKR",
+  "country": "PK"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a3a"
+  },
+  "code": "PLN",
+  "country": "PL"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a3b"
+  },
+  "code": "PYG",
+  "country": "PY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a3c"
+  },
+  "code": "QAR",
+  "country": "QA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a3d"
+  },
+  "code": "RON",
+  "country": "RO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a3e"
+  },
+  "code": "RSD",
+  "country": "RS"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a3f"
+  },
+  "code": "RUB",
+  "country": "RU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a40"
+  },
+  "code": "RWF",
+  "country": "RW"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a41"
+  },
+  "code": "SAR",
+  "country": "SA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a42"
+  },
+  "code": "SCR",
+  "country": "SC"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a43"
+  },
+  "code": "SDG",
+  "country": "SD"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a44"
+  },
+  "code": "SEK",
+  "country": "SE"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a45"
+  },
+  "code": "SGD",
+  "country": "SG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a46"
+  },
+  "code": "SHP",
+  "country": "SH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a47"
+  },
+  "code": "SLL",
+  "country": "SL"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a48"
+  },
+  "code": "SOS",
+  "country": "SO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a49"
+  },
+  "code": "SRD",
+  "country": "SR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a4a"
+  },
+  "code": "SYP",
+  "country": "SY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a4b"
+  },
+  "code": "SZL",
+  "country": "SZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a4c"
+  },
+  "code": "THB",
+  "country": "TH"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a4d"
+  },
+  "code": "TJS",
+  "country": "TJ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a4e"
+  },
+  "code": "TMT",
+  "country": "TM"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a4f"
+  },
+  "code": "TND",
+  "country": "TN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a50"
+  },
+  "code": "TOP",
+  "country": "TO"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a51"
+  },
+  "code": "TRY",
+  "country": "TR"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a52"
+  },
+  "code": "TTD",
+  "country": "TT"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a53"
+  },
+  "code": "TWD",
+  "country": "TW"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a54"
+  },
+  "code": "TZS",
+  "country": "TZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a55"
+  },
+  "code": "UAH",
+  "country": "UA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a56"
+  },
+  "code": "UGX",
+  "country": "UG"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a57"
+  },
+  "code": "USD",
+  "country": "US"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a58"
+  },
+  "code": "UYU",
+  "country": "UY"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a59"
+  },
+  "code": "UZS",
+  "country": "UZ"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a5a"
+  },
+  "code": "VND",
+  "country": "VN"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a5b"
+  },
+  "code": "VUV",
+  "country": "VU"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a5c"
+  },
+  "code": "WST",
+  "country": "WS"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a5d"
+  },
+  "code": "YER",
+  "country": "YE"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a5e"
+  },
+  "code": "ZAR",
+  "country": "ZA"
+},
+{
+  "_id": {
+    "$oid": "64e0f8b1d7ff968021b40a5f"
+  },
+  "code": "ZMW",
+  "country": "ZM"
+}]
